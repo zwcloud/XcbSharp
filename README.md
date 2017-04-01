@@ -7,7 +7,7 @@ See also [Ndesk/Xnb][2] and [Xnb: X protocol library for .NET][3].
 
 # COPYING
 
-MIT, See LICENSE for more details.
+MIT, See [LICENSE](./LICENSE) for more details.
 
 
 [1]: https://github.com/mono/old-code/tree/master/acceptance-tests-ifolder/xnb
